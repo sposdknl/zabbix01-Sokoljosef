@@ -1,8 +1,8 @@
 # Instalace
 
-## Manuální instalace
-
 Instrukce, jak projekt nainstalovat a spustit.
+
+## Manuální instalace
 
 Stáhněte všechny potřebné složky z repozitáře
 
