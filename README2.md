@@ -1,4 +1,5 @@
 ## Instalace
+#Manuální instalace
 Instrukce, jak projekt nainstalovat a spustit.
 
 Stáhněte všechny potřebné složky z repozitáře
@@ -25,6 +26,7 @@ Propojte agenta se serverem.
 
 Příprava nástroje pro provisioning
 
+#Automatizovaná instalace
 Vyberte vhodný nástroj, například Ansible nebo Bash.
 Ujistěte se, že máte přístup k cílovým serverům pomocí SSH.
 Nastavte strukturu projektu pro uložení skriptů nebo playbooků.
