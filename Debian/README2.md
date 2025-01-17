@@ -26,8 +26,7 @@ Nainstalujte Zabbix agent2.
 
 Propojte agenta se serverem.
 
-Příprava nástroje pro provisioning
-
+Zkontrolujte, že vše funguje podle zadání
 ## Automatizovaná instalace
 
 Vyberte vhodný nástroj, například Ansible nebo Bash.
@@ -49,3 +48,5 @@ Přidejte je do verzovacího systému (např. Git).
 Testování
 
 Ověřte, že skripty fungují správně a že Zabbix server i agent komunikují.
+
+Zkontrolujte, že vše funguje podle zadání
