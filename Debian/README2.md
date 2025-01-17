@@ -1,6 +1,6 @@
 # Instalace
 
-Instrukce, jak projekt nainstalovat a spustit.
+V tomto README najdete nstrukce jak projekt nainstalovat a spustit.
 
 ## Manuální instalace
 
