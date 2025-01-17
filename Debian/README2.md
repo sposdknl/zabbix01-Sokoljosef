@@ -27,25 +27,27 @@ Nainstalujte Zabbix agent2.
 Propojte agenta se serverem.
 
 Zkontrolujte, že vše funguje podle zadání
+
 ## Automatizovaná instalace
+Instalace Zabbix serveru
 
 Vyberte vhodný nástroj, například Ansible nebo Bash.
 Ujistěte se, že máte přístup k cílovým serverům pomocí SSH.
 Nastavte strukturu projektu pro uložení skriptů nebo playbooků.
-Instalace Zabbix serveru
+
+Instalace Zabbix agenta
+
+Nakonfigurujte Zabbix server, aby používal vytvořenou databázi.
 
 Aktualizujte systém a nainstalujte potřebné balíčky pro Zabbix server, včetně webového serveru a databáze.
 Vytvořte databázi a uživatele pro Zabbix.
-Nakonfigurujte Zabbix server, aby používal vytvořenou databázi.
-Instalace Zabbix agenta
+
+Automatizace pomocí nástroje
 
 Nainstalujte Zabbix agenta na cílové servery.
 Nakonfigurujte agenta tak, aby komunikoval se Zabbix serverem.
-Automatizace pomocí nástroje
 
-Vytvořte skripty nebo playbooky pro výše uvedené kroky.
-Přidejte je do verzovacího systému (např. Git).
-Testování
+Zkontrolujte, že vše funguje podle zadání
 
 Ověřte, že skripty fungují správně a že Zabbix server i agent komunikují.
 
